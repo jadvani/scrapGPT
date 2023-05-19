@@ -4,15 +4,15 @@
 
 ## Introduction
 
-Have you ever felt overwhelmed by the constant need to browse through multiple platforms to stay up-to-date with the latest releases and updates each month? If so, you're not alone. That's why I created Scrap GPT, a project aimed at simplifying the process of accessing all the latest news and updates from various platforms in one central location.
+Have you ever felt overwhelmed by the constant need to browse through multiple streaming platforms to stay up-to-date with the latest releases and updates each month? If so, you're not alone. That's why I created **Scrap GPT**, a project aimed at simplifying the process of accessing all the latest news and updates from various series platforms in one central location.
 
 ## Purpose
 
-The purpose of this repository is to provide a convenient solution for those tired of spending valuable time and effort navigating through different platforms to find the latest updates. By utilizing scraping tools and the powerful ChatGPT LLM API, this project aims to extract all the monthly updates from various platforms and consolidate them into a single place. 
+The purpose of this repository is to provide a convenient solution for those tired of spending valuable time and effort navigating through different streaming platforms to find the latest updates. By utilizing scraping tools and the powerful ChatGPT LLM API, this project aims to extract all the monthly updates from various platforms and consolidate them into a single place. 
 
 ## Supported Platforms
 
-Currently, the project has begun its journey with AppleTV as the first supported platform. However, the ultimate goal is to expand the scope and include updates from a wide range of platforms such as streaming services, software releases, gaming consoles, and more.
+Currently, the project has begun its journey with **AppleTV** as the first supported platform. However, the ultimate goal is to expand the scope and include updates from a wide range of platforms such as streaming services, software releases, gaming consoles, and more.
 
 ## How it Works
 
