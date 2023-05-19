@@ -6,7 +6,7 @@
 
 Have you ever felt overwhelmed by the constant need to browse through multiple streaming platforms to stay up-to-date with the latest releases and updates each month? 
 
-![Garfield]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/A7XO2QsduJGrw6hKsU))
+![Garfield]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/A7XO2QsduJGrw6hKsU)
 If so, you're not alone. That's why I created **Scrap GPT**, a project aimed at simplifying the process of accessing all the latest news and updates from various series platforms in one central location.
 
 ## Purpose
